@@ -1,0 +1,26 @@
+Hands-on Lab: Creating a Python Package
+cognitiveclass.ai logo
+Creating a Python Package
+Estimated time needed: 30 minutes
+
+Objectives
+In this lab you will :
+
+Create a module named basic
+Add two functions to the module basic
+Create a module named stats
+Add two functions to the module stats
+Create a python package named mymath
+Verify that the package is working
+
+
+Practice Exercise
+Create a new module named geometry and add to the mymath package.
+Create a module name geometry
+Add a function named area_of_rectangle that takes length and breadth as input and returns the area of a rectangle.
+Add a function named area_of_circle that takes radius as input and returns the area of a circle.
+Modify the __init__.py to include this module.
+Import and test the function area_of_circle from python terminal.
+
+
+https://apps.skillsbuild.skillsnetwork.site/learning/course/course-v1:BigDataUniversity+BD0211EN+v1/block-v1:BigDataUniversity+BD0211EN+v1+type@sequential+block@641ba0e6e6c1452d955463f6043b5807/block-v1:BigDataUniversity+BD0211EN+v1+type@vertical+block@f00e0b82fb8e4e399712904694b0aa81
